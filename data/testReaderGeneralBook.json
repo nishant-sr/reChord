@@ -1,0 +1,20 @@
+{"compositions": [
+  {
+    "tuning": "EADGBE",
+    "capo": 0,
+    "name": "Song1",
+    "chords": [
+      "A",
+      "G"
+    ]
+  },
+  {
+    "tuning": "Standard",
+    "capo": 0,
+    "name": "Song2",
+    "chords": [
+      "J",
+      "M"
+    ]
+  }
+]}
